@@ -2,7 +2,7 @@ torch
 torchvision
 matplotlib
 numpy==1.26
-onnx
+onnx==1.16.1
 onnxscript
 onnxruntime
 tensorboard
