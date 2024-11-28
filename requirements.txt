@@ -1,7 +1,8 @@
-torch==2.3.0
+torch
 torchvision
 matplotlib
-numpy
+numpy==1.26
 onnx
 onnxscript
 onnxruntime
+tensorboard
